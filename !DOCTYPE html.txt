@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdulkadir Rangrej - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Abdulkadir Rangrej</h1>
+        <p>IT Engineer & Network Support Specialist</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#certifications">Certifications</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Experienced IT Engineer with expertise in network configuration, IT security, and troubleshooting.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>IT Manager</strong> - DC Jewelers, Indore (2024 - Present)</li>
+            <li><strong>IT Support Engineer</strong> - RBZ Jewellers LTD., Ahmedabad (2023 - 2024)</li>
+            <li><strong>Senior Network Engineer</strong> - Vardhan Insys, Ahmedabad (2020 - 2023)</li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>✅ Network Configuration & Troubleshooting</li>
+            <li>✅ Firewalls & Intrusion Detection (Fortinet, Cyberoam)</li>
+            <li>✅ VPN & Secure Remote Access</li>
+        </ul>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>📜 EC-Council CODE RED (2022)</li>
+            <li>📜 Google Technical Support Fundamentals (2021)</li>
+            <li>📜 Fortinet NSE Certification (2020)</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: info@abdulkadirrangrej.info</p>
+        <p>Phone: +91 6353938896</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Abdulkadir Rangrej | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
